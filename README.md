@@ -1,4 +1,4 @@
-## Welcome to JB software & data consultancy by Jeffrey Beyo.
+### Welcome to JB software & data consultancy by Jeffrey Beyo.
 
             
 ## Consultancy
