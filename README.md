@@ -1,6 +1,4 @@
-# JBC Solutions
-
-## Welcome To JB Software & Data Consultancy By Jeffrey Beyo.
+# Welcome to JB software & data consultancy by Jeffrey Beyo.
 
             
 ## Consultancy
